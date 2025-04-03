@@ -5,8 +5,7 @@ I am **Khushi Yadav**, a passionate **Frontend Developer** and **Coding Enthusia
 ### 🚀 About Me  
 🌱 Skilled in **React, JavaScript, HTML, CSS, and Tailwind CSS**, focused on creating **smooth and engaging user experiences**.  
 ⚡ Actively participating in **hackathons and coding competitions**, with a strong problem-solving mindset.  
-💡 Exploring **Redux and backend technologies** to expand my full-stack development skills.  
-📫 Connect with me on **[LinkedIn](https://linkedin.com/in/khushi-yadav)** to chat about tech, projects, or opportunities!  
+💡 Exploring **Redux and backend technologies** to expand my full-stack development skills.   
 
 ### 💻 Tech Stack  
 - **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
@@ -18,13 +17,6 @@ I am **Khushi Yadav**, a passionate **Frontend Developer** and **Coding Enthusia
 🔹 Excited to **build amazing applications** that create an impact  
 
 ---
-
-## 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/khushi-yadav" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
 ## 🛠️ Languages and Tools:
 <p align="left"> 
