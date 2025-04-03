@@ -8,11 +8,12 @@ I am **Khushi Yadav**, a passionate **Frontend Developer** and **Coding Enthusia
 🌱 Skilled in **React, JavaScript, HTML, CSS, and Tailwind CSS**, focused on creating **smooth and engaging user experiences**.  
 ⚡ Actively participating in **hackathons and coding competitions**, with a strong problem-solving mindset.  
 💡 Exploring **Redux and backend technologies** to expand my full-stack development skills.  
+📫 Connect with me on **[LinkedIn](https://linkedin.com/in/khushi-yadav)** to chat about tech, projects, or opportunities!  
 
 ### 💻 Tech Stack  
 - **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
 - **Version Control:** Git, GitHub  
-- **Programming Languages:** C++, C, Python  
+- **Programming Languages:** C++  
 
 ### 🎯 Looking for Opportunities  
 🔹 **Internships** in **Software Development / Frontend Development**  
@@ -20,6 +21,12 @@ I am **Khushi Yadav**, a passionate **Frontend Developer** and **Coding Enthusia
 
 ---
 
+## 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/khushi-yadav" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 ## 🛠️ Languages and Tools:
 <p align="left"> 
@@ -61,15 +68,18 @@ I am **Khushi Yadav**, a passionate **Frontend Developer** and **Coding Enthusia
   </tr>
 </table>
 
-## 🔥 Streak & Activity Overview
+---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav0105&theme=radical" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushiyadav0105&theme=radical" alt="GitHub Activity Overview" />
-    </td>
-  </tr>
-</table>  
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav0105&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 GitHub Activity Overview  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushiyadav0105&theme=radical" alt="GitHub Activity Overview" />
+</p>
