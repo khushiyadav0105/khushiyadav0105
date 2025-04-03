@@ -1,16 +1,27 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> 
-  <a href="https://github-profile-trophy.vercel.app/?username=khushiyadav0105">
-    <img src="https://github-profile-trophy.vercel.app/?username=khushiyadav0105" alt="GitHub Trophies" />
-  </a> 
-</p>
+## Hi there 👋  
+I am **Khushi Yadav**, a passionate **Frontend Developer** and **Coding Enthusiast**. I love **building interactive web applications** and have worked with **React, JavaScript, and modern frontend technologies**.  
+
+### 🚀 About Me  
+🌱 Skilled in **React, JavaScript, HTML, CSS, and Tailwind CSS**, focused on creating **smooth and engaging user experiences**.  
+⚡ Actively participating in **hackathons and coding competitions**, with a strong problem-solving mindset.  
+💡 Exploring **Redux and backend technologies** to expand my full-stack development skills.  
+
+### 💻 Tech Stack  
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
+- **Version Control:** Git, GitHub  
+- **Programming Languages:** C++, C, Python  
+
+### 🎯 Looking for Opportunities  
+🔹 **Internships** in **Software Development / Frontend Development**  
+🔹 Excited to **build amazing applications** that create an impact  
 
 ---
 
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
@@ -50,14 +61,15 @@
   </tr>
 </table>
 
-### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav0105&theme=radical" alt="GitHub Streak" />
-</p>
+## 🔥 Streak & Activity Overview
 
-### 📈 GitHub Activity Overview:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushiyadav0105&theme=radical" alt="GitHub Activity" />
-</p>
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushiyadav0105&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushiyadav0105&theme=radical" alt="GitHub Activity Overview" />
+    </td>
+  </tr>
+</table>  
