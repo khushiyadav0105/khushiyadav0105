@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-## Hi there 👋  
 I am **Khushi Yadav**, a passionate **Frontend Developer** and **Coding Enthusiast**. I love **building interactive web applications** and have worked with **React, JavaScript, and modern frontend technologies**.  
 
 ### 🚀 About Me  
